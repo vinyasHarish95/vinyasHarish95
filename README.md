@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hey, my name is Vinyas! 
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hey, my name is [Vinyas](https://vinyasharish95.github.io/)! 
 
 I'm an MD/PhD candidate at the University of Toronto's [Temerty Faculty of Medicine](https://temertymedicine.utoronto.ca/) & [Dalla Lana School of Public Health](https://www.dlsph.utoronto.ca/). I primarily work at the [Population Health Analytics Laboratory](https://github.com/PopHealthAnalytics). My research interests include machine learning, emergency preparedness, clinical and population decision support systems, and the governance of artificial intelligence in health. 
 
