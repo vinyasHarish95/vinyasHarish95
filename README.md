@@ -3,7 +3,7 @@
 I'm an MD/PhD candidate at the University of Toronto's [Temerty Faculty of Medicine](https://temertymedicine.utoronto.ca/) & [Dalla Lana School of Public Health](https://www.dlsph.utoronto.ca/). I primarily work at the [Population Health Analytics Laboratory](https://github.com/PopHealthAnalytics). My research interests include machine learning, emergency preparedness, clinical and population decision support systems, and the governance of artificial intelligence in health. 
 
 ![tools](https://img.shields.io/static/v1?label=&message=tools&color=555&style=flat-square)
-![r](https://img.shields.io/static/v1?logo=r&label=&message=r&color=111&logoColor=AAA&style=flat-square)
+![tidyverse](https://img.shields.io/static/v1?logo=r&label=&message=tidyverse&color=111&logoColor=AAA&style=flat-square)
 ![numpy](https://img.shields.io/static/v1?logo=numpy&label=&message=numpy&color=111&logoColor=AAA&style=flat-square)
 ![pandas](https://img.shields.io/static/v1?logo=pandas&label=&message=pandas&color=111&logoColor=AAA&style=flat-square)
 ![keras](https://img.shields.io/static/v1?logo=keras&label=&message=keras&color=111&logoColor=AAA&style=flat-square)
